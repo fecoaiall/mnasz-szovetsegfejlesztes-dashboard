@@ -4,6 +4,10 @@ Nemzetközi legjobb gyakorlatok a magyar autó-motorsport megújításához – 
 
 ## Megnyitás
 
+**Böngészőben, letöltés nélkül:** https://fecoaiall.github.io/mnasz-szovetsegfejlesztes-dashboard/
+
+Vagy letöltve:
+
 1. Töltsd le a `MNASZ_szovetseg_es_szakagfejlesztes_dashboard_*.html` fájlt (fájl megnyitása → **Download raw file**).
 2. Kattints rá kétszer a gépeden: megnyílik a böngészőben (Chrome, Edge, Safari, Firefox).
 3. Internet a megnyitáshoz nem kell, csak a forráslinkekhez.
