@@ -1,6 +1,6 @@
 # Szövetség- és szakágfejlesztés – interaktív dashboard
 
-Nemzetközi legjobb gyakorlatok a magyar autó-motorsport megújításához – interaktív változat.
+Nemzetközi legjobb gyakorlatok autó-motorsport szövetségek és szakágak fejlesztéséhez – interaktív változat.
 
 ## Megnyitás
 
@@ -16,6 +16,6 @@ Vagy letöltve:
 
 | Fájl | Kiadás | Változás |
 |---|---|---|
-| `MNASZ_szovetseg_es_szakagfejlesztes_dashboard_20261125_2011.html` | 4. kiadás, 2026. 11. 25. 20:11 | Csak a nemzetközi legjobb gyakorlatok: Áttekintés, Gyakorlattár, Országok, Összehasonlítás, Rendszermodellek, Szakágak, Integritás, Saját válogatás, Szójegyzék, Források. |
+| `MNASZ_szovetseg_es_szakagfejlesztes_dashboard_20261125_2022.html` | 5. kiadás, 2026. 11. 25. 20:22 | Csak a külföldi jó gyakorlatok: 13 ország és az FIA 42 gyakorlata, országprofilok, összehasonlítás, rendszermodellek, szakági minták, szójegyzék, források. |
 
 Új kiadásnál az új fájl dátum–óra időbélyeggel kerül fel, és a táblázat bővül.
