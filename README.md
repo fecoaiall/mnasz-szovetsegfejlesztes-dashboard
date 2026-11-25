@@ -16,6 +16,6 @@ Vagy letöltve:
 
 | Fájl | Kiadás | Változás |
 |---|---|---|
-| `MNASZ_szovetseg_es_szakagfejlesztes_dashboard_20261125_2022.html` | 5. kiadás, 2026. 11. 25. 20:22 | Csak a külföldi jó gyakorlatok: 13 ország és az FIA 42 gyakorlata, országprofilok, összehasonlítás, rendszermodellek, szakági minták, szójegyzék, források. |
+| `MNASZ_szovetseg_es_szakagfejlesztes_dashboard_20261125_2025.html` | 2026. 11. 25. 20:25 | Csak a külföldi jó gyakorlatok: 13 ország és az FIA 42 gyakorlata, országprofilok, összehasonlítás, rendszermodellek, szakági minták, szójegyzék, források. |
 
 Új kiadásnál az új fájl dátum–óra időbélyeggel kerül fel, és a táblázat bővül.
