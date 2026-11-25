@@ -16,6 +16,7 @@ Vagy letöltve:
 
 | Fájl | Kiadás | Változás |
 |---|---|---|
-| `MNASZ_szovetseg_es_szakagfejlesztes_dashboard_20261125_1843.html` | 3. kiadás, 2026. 11. 25. 18:43 | Egységes megjelenés (szövetségi címer + név), pontosított első 100 nap, új GYIK-kérdés a pénzügyi rendezésről. |
+| `MNASZ_szovetseg_es_szakagfejlesztes_dashboard_20261125_2011.html` | 4. kiadás, 2026. 11. 25. 20:11 | Csak a nemzetközi legjobb gyakorlatok: Áttekintés, Gyakorlattár, Országok, Összehasonlítás, Rendszermodellek, Szakágak, Integritás, Saját válogatás, Szójegyzék, Források. |
+| `korabbi/MNASZ_szovetseg_es_szakagfejlesztes_dashboard_20261125_1843.html` | 3. kiadás, 2026. 11. 25. 18:43 | Egységes megjelenés (szövetségi címer + név), pontosított első 100 nap, új GYIK-kérdés a pénzügyi rendezésről. |
 
 Új kiadásnál az új fájl dátum–óra időbélyeggel kerül fel, a táblázat bővül, a korábbi változat a `korabbi/` mappába kerül.
